@@ -1,8 +1,8 @@
 {
-  "name": "nuxtjs",
+  "name": "workaholic-tracker",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
-  "author": "msweeneydev",
+  "description": "Sem descrição",
+  "author": "kitsune",
   "private": true,
   "scripts": {
     "dev": "nuxt",
